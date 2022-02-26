@@ -1,0 +1,24 @@
+[
+        {
+            "nom":"kherraf",
+            "prenom":"taha",
+            "dateDeNaissance":"1999-08-13",
+            "lieuDeNaissance":"Casablanca",
+            "sexe":"M",
+            "nationalite":"MAR",
+            "id":"A1JH99KH",
+            "dateExpiration":"2027-06-22"
+              
+        },
+        {
+          "nom":"naji",
+          "prenom":"abdelah",
+          "dateDeNaissance":"1999-06-12",
+          "lieuDeNaissance":"Casablanca",
+          "sexe":"M",
+          "nationalite":"MAR",
+          "id":"AK12BD83",
+          "dateExpiration":"2030-02-11"
+        }
+]
+
